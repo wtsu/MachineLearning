@@ -1,7 +1,7 @@
 # MachineLearning
 Machine Learning Related Projects
 
-Cancer Classifier - Python Script that used KNN clustering to create a model to predict whether you have a malignant or benign tumor
+Cancer Classifier - Python Script that used KNN clustering to create a model to predict whether a tumor is malignant or benign 
 
 Poisonous Mushcroom Classifier - Python Script that uses Support Vector Machines to create a model to predict if a mushroom is poisonous. Also explores the effect of model complexity and generalization performance. Use the provided Data Source `mushrooms.csv`
 
