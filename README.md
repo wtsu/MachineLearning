@@ -9,4 +9,4 @@ Credit Card Fraud Identification Classifier - Python Script that uses a Dummy Cl
 
 Blight Ticket Predictive Classifier - Python Script that uses gradient boosted decision trees to predict whether a given blight ticket will be paid on time. Use the provided Data Sources compressed in the file `blight_ticket_data.7z`
 
-Facial Recognition Counter - Python Script that uses openCV to count the number of faces that appear in a series of photo. Use the haarcascade file `haarcascade_frontalface_alt2`. Place image files into the a folder called `images`. See zip for folder configuration.
+Facial Recognition Counter - Python Script that uses openCV to count the number of faces that appear in a series of photos. Use the haarcascade file `haarcascade_frontalface_alt2`. Place image files into the a folder called `images`. See zip for folder configuration.
